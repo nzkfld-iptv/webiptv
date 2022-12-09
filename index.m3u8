@@ -1,0 +1,43 @@
+#EXTM3U tvg-country="VI" tvg-buildlab="184_gitmain_m1_dev2_vlc_p2phttps_sec"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0.25247.1000 ; Win64 ; x64)"
+#EXTVLCOPT:http-user-agent="WebTV-HTTPUAServer"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tshift.fptplay.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+
+
+#EXTINF:-1 tvg-id="vtv1" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV1
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtv1_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtv2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/VTV2_HD-0.png/revision/latest?cb=20201228133530&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV2
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtv2_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtv3" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/vtv/images/1/12/VTV3_HD.png/revision/latest?cb=20201005090039&path" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV3 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtv3_1080p/index/play.m3u8  
+#EXTINF:-1 tvg-id="vtv4" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/Logo_VTV4_HD.png/revision/latest?cb=20201231093755&path-prefix=vi"  catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV4
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtv4_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtv5" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/VTV5_HD_logo_th%E1%BB%AD_nghi%E1%BB%87m.png/revision/latest?cb=20211014034536&path-prefix=vi" group-title="VTV" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV5
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtv5_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtvct" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/Logo_VTV_CanTho_2022.png/revision/latest/scale-to-width-down/220?cb=20221009182058&path-prefix=vi"  catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV Cần Thơ 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtvcantho_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtv7" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/VTV7_HD-0.png/revision/latest?cb=20200401224019&path-prefix=vi"  catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV7
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtv7_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtv8" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/VTV8_HD-0.png/revision/latest?cb=20201228133900&path-prefix=vi"  catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV8
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtv8_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtv9" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9e/VTV9_HD.png/640px-VTV9_HD.png"  catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTV9 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtv9_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC1 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc1_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC2
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtvc2_720p/index/dvb-sd.m3u8
+#EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/340?cb=20201207142820&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,VTC3
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc3_1080p/index/dvb-hd.m3u8
+#EXTINF:-1 tvg-id="vtc4" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTC4_2018-2020.png/revision/latest/scale-to-width-down/340?cb=20201212065736&path-prefix=vi"  catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC4 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc4_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtc5" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/VTC5_2018.png/revision/latest/scale-to-width-down/340?cb=20200821143114"  catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC5
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc5_720p/index/dvb-sd.m3u8
+#EXTINF:-1 tvg-id="vtc6" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/1024px-VTC6_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC6 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc6_720p/index/dvb-sd.m3u8
+#EXTINF:-1 tvg-id="vtc7" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest/scale-to-width-down/340?cb=20201125094038&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC7 - TodayTV
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc7_720p/index/dvb-sd.m3u8
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/768px-VTC8_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC8
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc8_720p/index/dvb-sd.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/1200px-VTC9_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,VTC9 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc9_720p/index/play.m3u8
