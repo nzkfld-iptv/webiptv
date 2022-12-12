@@ -1,4 +1,4 @@
-#EXTM3U tvg-country="VI" tvg-buildlab="184_gitmain_m1_dev2_vlc_p2phttps_sec"
+#EXTM3U tvg-country="VI" tvg-buildlab="192_gitmain_m1_dev2_vlc_p2phttps_sec"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0.25247.1000 ; Win64 ; x64)"
 #EXTVLCOPT:http-user-agent="WebTV-HTTPUAServer"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -41,3 +41,27 @@ https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc7_720p/index/
 https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc8_720p/index/dvb-sd.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/1200px-VTC9_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,VTC9 
 https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc9_720p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC10 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc10_720p/index/dvb-sd.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,VTC11 - KidsTV
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc11_720p/index/dvb-sd.m3u8
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTC12_Grey.png/revision/latest/scale-to-width-down/340?cb=20200904024746&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,VTC12
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc12_720p/index/debug.m3u8
+#EXTINF:-1 tvg-id="vtc134k" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC13 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc13_2160p/index/debug.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,VTC14 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc14_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1200px-VTC16_logo_2018.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",VTC16 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vtc16_720p/index/play.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,Thông Tấn Xã Việt Nam HD
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/ttxvn_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,ANTV 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/antv_1080p/index/play.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,Nhân Dân TV
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/ndtv_720p/chk/dvb-sd.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/",Quốc Phòng TV
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png" catchup="append" catchup-days="0.3" catchup-source="https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xcatchup/" ,Quốc Hội 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/qh_1080p/chk/play.m3u8
+#EXTINF:-1 tvg-id="vovtv" group-title="Thiết yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/VOVTV_logo_2020.png/revision/latest?cb=20210904094801&path-prefix=vi",VOV TV 
+https://d350a3cb-b54d-400c-8410-4c5eaed50fc1.id.repl.co/xstream/vov_1080p/index/play.m3u8
